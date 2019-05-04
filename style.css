@@ -1,0 +1,55 @@
+input {
+    width: 150px;
+    height: 50px;
+    font: normal 20px/20px Arial;
+    color: #999;
+    margin-right: 10px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+input.btn {
+    color: #333;
+    width: auto;
+    margin-top: 20px;
+    display: block;
+}
+
+div.campo {
+    margin-right: 10px;
+    display: inline-block;
+    float: left;
+}
+div.boton {
+    margin-right: 10px;
+    display: block;
+    float: left;
+    width: 100%;
+}
+div#resultado {
+    display: block;
+    width: 100%;
+    float: left;
+}
+h1 {
+    font: 22px/22px Arial;
+}
+h2, h3 {
+    font: bold 16px/16px Arial;
+}
+p {
+    padding: 10px 0;
+    margin: 0;
+    font: bold 16px/16px Arial;
+    color: #333;
+}
+p#medidas {
+    display: block;
+    float: left;
+    padding-top: 35px;
+}
+span {
+    padding: 10px 0;
+    margin: 0;
+    font: normal 20px/20px Arial;
+    color: chocolate;
+}
